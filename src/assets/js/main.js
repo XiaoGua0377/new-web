@@ -5,6 +5,9 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
+import GLightbox from 'glightbox';
+import 'glightbox/dist/css/glightbox.min.css';
+
 (function() {
   "use strict";
 
@@ -253,8 +256,3 @@
 
 })()
 
-// Import our custom CSS
-import '../scss/styles.scss'
-
-// Import all of Bootstrap's JS
-import * as bootstrap from 'bootstrap'
